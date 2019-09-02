@@ -1,0 +1,85 @@
+body {
+  font-family: 'Josefin Sans', sans-serif;
+  background-color: #111;
+  color: #fff;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 36px;
+  color: #fff;
+  margin-bottom: 40px;
+}
+
+#output, #temp-result {
+  background-color: #fff;
+  width: 400px;
+}
+
+#output {
+  font-size: 72px;
+  height: 110px;
+  padding-right: 25px;
+  padding-top: 20px;
+  color: #333;
+}
+
+#temp-result {
+  height: 110px;
+  font-size: 56px;
+  padding-right: 25px;
+  padding-top: ;
+  color: #CDCDCD;
+}
+
+button {
+  border: none;
+  height: 80px;
+  width: 80px;
+  background-color: #666;;
+  font-size: 20px;
+}
+
+button:hover {
+  background-color: #333;
+}
+
+button:focus {
+  outline: none;
+}
+
+#zero, #enter {
+  width: 160px;
+}
+
+.number {
+  background-color: #444;
+}
+
+#enter {
+  background-color: #777;
+}
+
+#enter:hover {
+  background-color: #333;
+}
+
+#clear {
+  width: 80px;
+  background-color: #E72737;
+}
+
+#clear:hover {
+  background-color: #D2142E;
+}
+
+#delete {
+  width: 80px;
+  background-color: #aaa;
+}
+
+#delete:hover {
+  background-color: #333;
+}
